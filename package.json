@@ -1,0 +1,30 @@
+{
+  "name": "debug-popup-log",
+  "version": "1.0.0",
+  "description": "Javascript popup to help you watch and debug you logs Edit",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iranreyes/debug-popup-log.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "popup",
+    "log",
+    "debug",
+    "function",
+    "persistent"
+  ],
+  "author": "Iran Reyes <iranreyesfleitas@gmail.com> (http://www.iranreyes.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iranreyes/debug-popup-log/issues"
+  },
+  "homepage": "https://github.com/iranreyes/debug-popup-log#readme"
+}
