@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Javascript popup to help you watch and debug you logs Edit",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "to-style": "^1.3.3"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
