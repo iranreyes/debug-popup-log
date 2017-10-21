@@ -1,6 +1,4 @@
-* Transform all the code to ES5
-* Refactor code, mainly the type checking
-* Upload package to npm
 * Create example folder
+* Upload package to npm
 * Create unit tests
-* Make the styles extensibles
+* Update Readme
