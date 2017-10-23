@@ -3,8 +3,8 @@ var check = require('check-types');
 
 var defaultValues = require('./defaultValues');
 
-function DebugPopupLog(documentContainer) {
-  this._init(documentContainer);
+function DebugPopupLog(documentContainer, wrapperStyles) {
+  this._init(documentContainer, wrapperStyles);
 }
 
 DebugPopupLog.prototype._init = function(documentContainer, wrapperStyles) {
