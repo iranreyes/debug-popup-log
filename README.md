@@ -58,6 +58,7 @@ Parameters:
 
 The title is a plain string and the content can be whetever you want. It can be the result of function, a javascript primitive type or a function that will be executed all the time.
 
+```
 popupLog.addPanel('DOM Tags', document.querySelectorAll('*').length);
 
 popupLog.addPanel('Window size', () => `width: ${window.innerWidth}, height: ${window.innerHeight}`);
